@@ -1,0 +1,9 @@
+Package: com.se2dev.steamlinkdetection
+Name: Steam Link Detection
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Clickable links in Steam Mobile!
+Maintainer: SE2Dev
+Author: SE2Dev
+Section: Tweaks
